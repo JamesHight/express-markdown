@@ -1,0 +1,36 @@
+{
+  "name": "express-markdown",
+  "description": "Expressjs middleware for rendering markdown files",
+  "version": "0.0.1",
+  "author": {
+    "name": "James Hight"
+  },
+  "maintainers": [
+    {
+      "name": "andris",
+      "email": "james@zavoo.com"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JamesHight/express-markdown"
+  },
+  "directories": {
+    "lib": "./lib"
+  },
+  "main": "./lib/markdown",
+  "licenses": [
+    {
+      "type": "Apache 2.0",
+      "url": "https://github.com/JamesHight/express-markdown/blob/master/LICENSE"
+    }
+  ],
+  "dependencies": {
+    "node-markdown": "*"
+  },
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  }
+}
