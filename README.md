@@ -3,6 +3,9 @@ express-markdown
 
 Express middleware for rendering markdown files
 
+It looks for URIs ending in ".md"
+example: http://mysite.com/README.md
+
 Usage
 -----
 	// !!!IMPORTANT: place this before static or similar middleware
