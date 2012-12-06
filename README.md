@@ -25,4 +25,4 @@ Usage
 	  // default 'markdown'
 	  variable: 'bar'
 
-	}));
+	});
