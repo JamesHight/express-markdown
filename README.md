@@ -5,11 +5,8 @@ Expressjs middleware for rendering markdown files
 
 Usage
 -----
-
-	var expressMarkdown = require('express-markdown');
-
 	// !!!IMPORTANT: place this before static or similar middleware
-	app.use(expressMarkdown({
+	app.use(require('express-markdown')({
 
 	  // directory where markdown files are stored
 	  // required
@@ -25,4 +22,4 @@ Usage
 	  // default 'markdown'
 	  variable: 'bar'
 
-	});
+	}));
