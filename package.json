@@ -1,6 +1,6 @@
 {
   "name": "express-markdown",
-  "description": "Expressjs middleware for rendering markdown files",
+  "description": "Express middleware for rendering markdown files",
   "version": "0.0.1",
   "author": {
     "name": "James Hight"

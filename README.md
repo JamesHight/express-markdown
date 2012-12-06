@@ -1,7 +1,7 @@
 express-markdown
 ================
 
-Expressjs middleware for rendering markdown files
+Express middleware for rendering markdown files
 
 Usage
 -----
