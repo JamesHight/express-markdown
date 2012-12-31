@@ -5,6 +5,11 @@ Express middleware for rendering markdown files
 
 It looks for URLs ending in ".md", example: http://mysite.com/README.md
 
+Installation
+------------
+
+	npm install express-markdown
+
 Usage
 -----
 
