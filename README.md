@@ -28,6 +28,10 @@ Usage
 	  // name of markdown variable passed in the context when rendering
 	  // optional
 	  // default 'markdown'
-	  variable: 'bar'
+	  variable: 'bar',
 
+	  // default markdown file to load if a directory is requested
+	  // optional
+	  // default 'readme.md'
+      defaultFile: 'index.md'
 	}));
